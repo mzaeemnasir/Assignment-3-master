@@ -5,7 +5,7 @@ int main()
 {
 
 
-	cout << "Waleed Bin Nasir";
+	cout << "Saad Bin Nasir";
 	system("pause");
 	return 0;
 }
